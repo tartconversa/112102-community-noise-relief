@@ -1,0 +1,6 @@
+remedy,operator,area,building,kind,first_night,last_night,units,cents
+A1,U1,Z2,,night_reduction,22,29,5,2700
+A2,U2,Z2,,night_reduction,25,29,4,1900
+A3,U1,Z2,L2,insulation,,,1,3400
+A4,U2,Z2,L2,insulation,,,1,3000
+A5,U1,Z1,L1,insulation,,,1,2400

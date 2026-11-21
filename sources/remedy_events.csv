@@ -1,0 +1,4 @@
+event,remedy,day,state,actual_building,actual_units
+S1,A3,18,signed,,
+S2,A1,19,proposal,,
+S3,A3,24,partial_acceptance,L2,0.5

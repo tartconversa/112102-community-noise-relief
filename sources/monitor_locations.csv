@@ -1,0 +1,7 @@
+sensor,area,site_a,site_b,role
+M1,Z1,U1,,exposed
+M2,Z1,U1,U2,exposed
+M3,Z2,U1,U2,exposed
+M4,Z2,U1,U2,exposed
+M5,Z3,,,comparison
+M6,Z3,,,comparison
